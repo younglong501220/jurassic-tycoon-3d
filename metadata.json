@@ -1,0 +1,6 @@
+{
+  "name": "Jurassic Tycoon 3D",
+  "description": "3D 方塊風格侏羅紀恐龍公園模擬經營遊戲，支援 10 種恐龍培育、圍欄共處規則、商店與公共設施、員工管理、財務報表與 3D 恐龍展示。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
